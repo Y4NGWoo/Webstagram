@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.webstagram.config-service.iml" filepath="$PROJECT_DIR$/.idea/modules/com.webstagram.config-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-service/config-service.iml" filepath="$PROJECT_DIR$/config-service/config-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/config-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/config-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discovery.iml" filepath="$PROJECT_DIR$/.idea/modules/discovery.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/discovery.main.iml" filepath="$PROJECT_DIR$/.idea/modules/discovery.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discovery.test.iml" filepath="$PROJECT_DIR$/.idea/modules/discovery.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/webstagram.iml" filepath="$PROJECT_DIR$/webstagram.iml" />
     </modules>
   </component>
